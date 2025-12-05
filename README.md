@@ -60,7 +60,9 @@ Watch the demo video here: [Bookly App Demo](https://drive.google.com/file/d/13Q
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork the repo and submit pull requests.
+ ## 📩 Contact
 
-## 📩 Contact
+For any inquiries, collaborations, or feedback, you can reach out to me via:
 
-For any inquiries, reach out to me on [LinkedIn](www.linkedin.com/in/ahmed-osman22).
+* **LinkedIn:** [Ahmed Osman](https://www.linkedin.com/in/ahmed-osman22)
+
